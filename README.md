@@ -5,5 +5,5 @@ Key Features:\
 •	It provides methods area() and perimeter() to calculate the area and perimeter of the shape.\
 •	The Square class is derived from Shape and ensures that both sides are equal upon initialization.\
 •	The main() function creates a Shape object (rectangle) and a Square object, then prints their area and perimeter.\
-This implementation follows best practices by avoiding redundant attributes, ensuring proper inheritance, and maintaining clean, readable code.\
+This implementation follows best practices by avoiding redundant attributes, ensuring proper inheritance, and maintaining clean, readable code.
 
